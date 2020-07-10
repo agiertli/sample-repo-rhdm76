@@ -1,0 +1,6 @@
+package com.myspace.sampleproject
+
+rule "üüü"
+when
+then
+end
