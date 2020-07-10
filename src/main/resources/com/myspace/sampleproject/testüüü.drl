@@ -1,6 +1,6 @@
 package com.myspace.sampleproject
 
-rule "uuu"
+rule "üüü"
 when
 then
 end
